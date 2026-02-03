@@ -14,7 +14,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '🥹', '🌝', '🤭', '🤤'],  // Heart emojis
+        hearts: ['❤️', '🥹', '🌝', '💞', '💗'],  // Heart emojis
         bears: ['🐈', '🐱']                       // Cute bear emojis
     },
 
@@ -22,20 +22,20 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like your bgi lover boy (hint theres a 3rd answer)",                                    // First interaction
+            text: "Do you like your lover boy (hint: theres a 3rd answer somewhere)",                                    // First interaction
             yesBtn: "Yes lil bro",                                             // Text for "Yes" button
-            noBtn: "no kid",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you!❤️❤️❤️"           // Secret hover message
+            noBtn: "No kid",                                               // Text for "No" button
+            secretAnswer: "I don't like you, I love you Ethan!❤️❤️❤️"           // Secret hover message
         },
         second: {
             text: "how much do you rlly love me?",                          // For the love meter
-            startText: "drag that thing to the right!",                                   // Text before the percentage
+            startText: "drag that shi to the right!",                                   // Text before the percentage
             nextBtn: "Continue (are you sure this is how much you love me?)"                                         // Text for the next button
         },
         third: {
             text: "Will you be my Valentine?? 🌺 (<< hisbiscus btw)", // The big question!
             yesBtn: "Yes im a good girl",                                             // Text for "Yes" button
-            noBtn: "No im a bitch"                                                 // Text for "No" button
+            noBtn: "No im a bitch liar"                                                 // Text for "No" button
         }
     },
 
